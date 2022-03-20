@@ -1,7 +1,7 @@
 # StatColorNet
 ![Python 3.7.12](https://img.shields.io/badge/python-3.7.12-blue.svg?style=plastic)
 
-The project prediction of **state** and **color** of an input image.
+The project involves prediction of the **state** and **color** of an input image.
 
 ## Getting Started
 The required packages can be installed through: 

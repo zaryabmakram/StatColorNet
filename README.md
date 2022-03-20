@@ -1,4 +1,5 @@
 # StatColorNet
+![Python 3.7.12](https://img.shields.io/badge/python-3.7.12-blue.svg?style=plastic)
 
 The project prediction of **state** and **color** of an input image.
 
